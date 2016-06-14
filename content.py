@@ -6,7 +6,7 @@ import codecs
 ratings space note that:
 r = 1 is Manhattan distance
 r = 2 is Euclidean distance
-r = 3 is supremum distance'''
+r -> ∞ is supremum distance'''
 def minkowski(data, item1, item2, r):
 	result = 0.0
 	#loop through all ratings dimensions, and add accordingly
