@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#cosine.py - A first attempt at a cosine item-item recommender system
+#The main problem this is trying to address is data sparsity
 
 import codecs
 from math import sqrt
