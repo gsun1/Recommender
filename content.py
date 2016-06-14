@@ -1,4 +1,4 @@
-#!//Users/gregorysun/anaconda3/bin/python3
+#content.py - A first attempt at a content based recommender system
 
 import codecs
 
